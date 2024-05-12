@@ -1,0 +1,27 @@
+{
+    "ropes": [
+        {
+            "position": [0.5, 0.1],
+            "length": 0.15
+        }
+    ],
+    "monster": [
+        {
+            "position": [0.5, 0.9]
+        }
+    ],
+
+    "stars": [
+        {
+            "position": [0.5, 0.3]
+        },
+
+        {
+            "position": [0.5, 0.5]
+        },
+
+        {
+            "position": [0.5, 0.7]
+        }
+    ]
+}
