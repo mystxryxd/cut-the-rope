@@ -8,5 +8,9 @@ dunno i lowkey was just doing some random shit and this game came into my mind a
 - [x] making ropes more ropey
 - [ ] actually making assets instead of drawing a bunch of squares and circles
 - [ ] redesigning the shitty *candy owner* system
+- [ ] more levels
 - [ ] decouple some logic
 - [ ] actually work on the above instead of procrastinating
+
+## how to play
+just run game.py dumbass
