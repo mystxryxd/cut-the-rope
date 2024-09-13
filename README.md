@@ -1,5 +1,5 @@
 # cut the rope
-a shitty remake of the popular 2010 game of the popular mobile game **cut the fucking rope**
+a shitty remake of the popular 2010 mobile game **cut the fucking rope**
 
 ## why i created this shitty clone
 dunno i lowkey was just doing some random shit and this game came into my mind and i was all like fuck it imma do it lol
